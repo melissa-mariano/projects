@@ -3,7 +3,8 @@
 Répertoire de projets de science des données et de traitement du langage naturel (NLP) que je développe pour différents secteurs de l’industrie.
 Statut : 🚧 en construction — de nouveaux projets et améliorations seront ajoutés progressivement.
 
-Projets actuels
+
+# Projets actuels
 
 📊 Analyse RSE / ESG du CAC 40 (FR + EN)
 
